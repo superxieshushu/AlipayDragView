@@ -1,5 +1,6 @@
 ## AlipayDragView
 支付宝我的应用编辑 拖拽效果实现
+
 |                  支付宝效果                   |                  实现的效果                   |
 | :--------------------------------------: | :--------------------------------------: |
 | ![支付宝效果](https://ws3.sinaimg.cn/large/006tNc79ly1fnt8osfestg304r08waw3.gif) | ![实现的效果](https://ws3.sinaimg.cn/large/006tKfTcly1fnwqvfr54vg304p08wdiv.gif) |
